@@ -2,8 +2,7 @@
 - 👀 I’m interested in  Programação WEB e  DataScience
 - 🌱 I’m currently learning  Python e JavaScript
 - 💞️ I’m looking to collaborate  no desenvolvimento de sites e aplicativos diversos. 
-- 📫 Caso queira entrar em contato pode falar comigo pelo meu <b>LinkedIn></b> < link  rel="stylesheet" src="linkedin.com/in/jackson-junior-b69433125
-">
+- 📫 Caso queira entrar em contato pode falar comigo pelo meu <b>LinkedIn></b>  <i>linkedin.com/in/jackson-junior-b69433125</i>
 
 <!---
 KenpachiZoro/KenpachiZoro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
